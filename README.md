@@ -16,12 +16,13 @@ aumentando sua participação no mercado. Isso inclui o estudo das movimentaçõ
 como a aquisição de novos mercados e trechos, além do crescimento e retenção de clientes. Para
 facilitar a análise desses dados, a ANTT disponibiliza um conjunto de dados abertos sobre o mercado
 rodoviário. Entre esses dados estão:
+  + Histórico de Linhas
+  + Pontos do Esquema Operacional
+  + Serviços Paralisados
+  + Empresas, Linhas e Seções
+  + Horários
 
-  • Histórico de Linhas
-  • Pontos do Esquema Operacional
-  • Serviços Paralisados
-  • Empresas, Linhas e Seções
-  • Horários
+    ### OBS: Focamos apenas na duas últimas fontes de dados **Empresas, Linhas e Seções & Horários**
 
 ### Fonte
 Os dados podem ser acessados pela seguinte URL: Gerenciamento de Autorizações - Conjuntos de
