@@ -22,7 +22,7 @@ rodoviário. Entre esses dados estão:
   + Empresas, Linhas e Seções
   + Horários
 
-    ### OBS: Focamos apenas na duas últimas fontes de dados **Empresas, Linhas e Seções & Horários**
+    ### OBS: Focamos apenas na duas últimas fontes de dados: Empresas, Linhas e Seções & Horários
 
 ### Fonte
 Os dados podem ser acessados pela seguinte URL: Gerenciamento de Autorizações - Conjuntos de
