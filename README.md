@@ -1,17 +1,27 @@
 # ANTT---web-scraping
 WEB SCRAPING COM PYTHON - monitoramento de mercado de transporte terrestre
 
+### Obs: 
+A pasta contem script python que executa todas as atividades propostas:
+  + Web Scraping
+  + cria pasta e salva arquivos (os arquivos salvos não são subcritos se script for executado pela segunda vez)
+  + concatena os arquivos salvos ver mais explicações abaixo
+  + filtra os ultimos 3 meses e salva em .csv e .parquet
+
+    adicional: a questão de encode está prevista
+
 ### Justificativa
 O monitoramento de mercados é essencial para que os operadores mantenham sua competitividade,
 aumentando sua participação no mercado. Isso inclui o estudo das movimentações dos concorrentes,
 como a aquisição de novos mercados e trechos, além do crescimento e retenção de clientes. Para
 facilitar a análise desses dados, a ANTT disponibiliza um conjunto de dados abertos sobre o mercado
 rodoviário. Entre esses dados estão:
-• Histórico de Linhas
-• Pontos do Esquema Operacional
-• Serviços Paralisados
-• Empresas, Linhas e Seções
-• Horários
+
+  • Histórico de Linhas
+  • Pontos do Esquema Operacional
+  • Serviços Paralisados
+  • Empresas, Linhas e Seções
+  • Horários
 
 ### Fonte
 Os dados podem ser acessados pela seguinte URL: Gerenciamento de Autorizações - Conjuntos de
