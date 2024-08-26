@@ -2,13 +2,15 @@
 WEB SCRAPING COM PYTHON - monitoramento de mercado de transporte terrestre - ANTT
 
 ### Obs: 
-A pasta contem script python que executa todas as atividades propostas:
+A pasta contem script python; arquivos em Parquet e .csv (adicional)
+
+  O arquivo python executa todas as atividades propostas:
   + Web Scraping
   + cria pasta e salva arquivos (os arquivos salvos não são subcritos se script for executado pela segunda vez)
   + concatena os arquivos salvos ver mais explicações abaixo
   + filtra os ultimos 3 meses e salva em .csv e .parquet
-
-    adicional: a questão de encode está prevista
+ 
+  
 
 ### Justificativa
 O monitoramento de mercados é essencial para que os operadores mantenham sua competitividade,
